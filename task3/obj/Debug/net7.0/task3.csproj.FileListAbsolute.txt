@@ -1,0 +1,15 @@
+/Users/ilarekhtin/Documents/Семинар 1/task3/bin/Debug/net7.0/task3
+/Users/ilarekhtin/Documents/Семинар 1/task3/bin/Debug/net7.0/task3.deps.json
+/Users/ilarekhtin/Documents/Семинар 1/task3/bin/Debug/net7.0/task3.runtimeconfig.json
+/Users/ilarekhtin/Documents/Семинар 1/task3/bin/Debug/net7.0/task3.dll
+/Users/ilarekhtin/Documents/Семинар 1/task3/bin/Debug/net7.0/task3.pdb
+/Users/ilarekhtin/Documents/Семинар 1/task3/obj/Debug/net7.0/task3.csproj.AssemblyReference.cache
+/Users/ilarekhtin/Documents/Семинар 1/task3/obj/Debug/net7.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilarekhtin/Documents/Семинар 1/task3/obj/Debug/net7.0/task3.AssemblyInfoInputs.cache
+/Users/ilarekhtin/Documents/Семинар 1/task3/obj/Debug/net7.0/task3.AssemblyInfo.cs
+/Users/ilarekhtin/Documents/Семинар 1/task3/obj/Debug/net7.0/task3.csproj.CoreCompileInputs.cache
+/Users/ilarekhtin/Documents/Семинар 1/task3/obj/Debug/net7.0/task3.dll
+/Users/ilarekhtin/Documents/Семинар 1/task3/obj/Debug/net7.0/refint/task3.dll
+/Users/ilarekhtin/Documents/Семинар 1/task3/obj/Debug/net7.0/task3.pdb
+/Users/ilarekhtin/Documents/Семинар 1/task3/obj/Debug/net7.0/task3.genruntimeconfig.cache
+/Users/ilarekhtin/Documents/Семинар 1/task3/obj/Debug/net7.0/ref/task3.dll
