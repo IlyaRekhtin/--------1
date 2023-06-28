@@ -2,6 +2,7 @@
 // какое число большее, а какое меньшее.
 
 Console.Clear();
+
 Console.Write("Enter number 1 =>");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter number 2 =>");
